@@ -46,8 +46,8 @@ function Node(value) {
 }
 function BinarySearchTree() {
     this.root = null;
-    // change code below this line
-    // change code above this line
+    // novo codigo abaixo dessa linha
+    // novo codigo acima dessa linha 
 }
 
 ```
